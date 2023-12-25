@@ -1,16 +1,5 @@
 # spark_sky
 
-A new Flutter project.
+Flutter Weather App for Android Ios and Web using API
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⛅![410707324_583287067290633_3239814111813622483_n](https://github.com/mohamed-essam-abdelkaream/Spark_Sky/assets/75342235/c40141a3-eeb4-483e-a0dd-6fea5c641401)
